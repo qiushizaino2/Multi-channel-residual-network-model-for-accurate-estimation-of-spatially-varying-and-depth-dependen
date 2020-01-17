@@ -1,4 +1,4 @@
-# Multi-channel-residual-network-model-for-accurate-estimation-of-spatially-varying-and-depth-dependen
+# Multi channel residual network model for accurate estimation of spatially-varying and depth-dependent defocus kernels
 By Yanpeng Cao, Zhangyu Ye, Zewei He, Jiangxin Yang, Yanlong Cao, Christel-Loic Tisse, and Michael Ying Yang.
 The paper is available at  |[`[PDF Download]`](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-2-2263)
 
